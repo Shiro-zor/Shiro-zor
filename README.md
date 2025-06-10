@@ -1,5 +1,7 @@
 ## Olá, sou o Guilherme!! 👋
 
+<h1 align="center">Hello World!! ✌️</h1>
+
 - 📖 Estudando Javascript
 - 🌱 Meta trabalhar com Front-end
 - 😁 Pronouns ele/dele
