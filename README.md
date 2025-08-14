@@ -3,7 +3,7 @@
 <h1 align="center">Hello World!! ✌️</h1>
 
 - 📖 Estudando Javascript
-- 🌱 Meta trabalhar com Front-end
+- 🌱 Meta trabalhar com Front-end & Back-end
 - 😁 Pronouns ele/dele
 
   <div align="center">
